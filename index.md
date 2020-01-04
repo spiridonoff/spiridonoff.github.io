@@ -4,5 +4,5 @@ My Research is about Distributed Optimization. I study optimization algorithms t
 
 ```
 This page is under construction.
-learn more about my projects on my [LinkedIn Profile]https://www.linkedin.com/in/artins/).
+learn more about my projects on my [LinkedIn Profile](https://www.linkedin.com/in/artins/).
 ```
