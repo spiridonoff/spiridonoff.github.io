@@ -27,7 +27,7 @@ In this paper, I outline limitations of current AI paradigms, then propose a mat
 While recent AI systems show remarkable capabilities, they face several key challenges:
 Scale: Model sizes are growing rapidly. GPT-4, for example, comprises eight models, each with 220 billion parameters.
 Data Requirements: These large models demand vast training datasets, which may soon become insufficient.
-Cost: Training state-of-the-art models is increasingly expensive - GPT-4 reportedly cost $63 million.
+Cost: Training state-of-the-art models is increasingly expensive - GPT-4 reportedly cost \$63 million.
 Energy Consumption: AI training is power-intensive. Tech companies are investing in nuclear energy to meet future demands.
 
 These trends raise concerns about the sustainability of current approaches. The human brain, by contrast, is highly efficient: it contains approximately 86 billion neurons and learns effectively from far fewer examples, with dramatically lower energy use. It operates on roughly 20 watts of power - less than a light bulb - yet it supports lifelong learning, abstraction, memory, and multi-modal reasoning. By contrast, modern AI models require megawatt-scale GPU clusters to perform inference and learning tasks that humans accomplish with ease.
@@ -43,13 +43,13 @@ Many such behaviors are not the result of conscious reasoning. Reflexes like fig
 We can define intelligence more generally as the ability to model the environment and make effective decisions. This entails prediction - estimating outcomes of actions - and decision-making - choosing actions that maximize a goal, such as survival.
 This predictive ability aligns with the Bayesian brain hypothesis, which posits that the brain continuously updates probabilistic models of the world, using sensory input to minimize prediction errors. From this perspective, intelligence can be seen as the optimization of belief updates under uncertainty.
 Consider a simplified formulation:
-Problem 1: Given prior experiences with complete observed pairs $\((x_i, y_i) \sim (X, Y)\)$, predict $\(Y\)$ for a new instance $\(x \sim X\)$.
+Problem 1: Given prior experiences with complete observed pairs $((x_i, y_i) \sim (X, Y))$, predict $(Y)$ for a new instance $(x \sim X)$.
 This resembles standard supervised learning. However, it differs from real-world intelligence in key ways:
-The target $\(Y\)$ is not fixed; it depends on context.
+The target $(Y)$ is not fixed; it depends on context.
 Observations may be incomplete; not all variables are observed at once.
 
 A more general framing is:
-Problem 2: Given prior experiences with incomplete observations $\(\{x_i \sim X_i\}\)$, predict $\(X_j\)$ for any $\(j\)$, conditioned on the other $\(\{x_i \mid i \neq j\}\)$.
+Problem 2: Given prior experiences with incomplete observations $(\{x_i \sim X_i\})$, predict $(X_j)$ for any $(j)$, conditioned on the other $(\{x_i \mid i \neq j\})$.
 This formulation more closely mirrors biological cognition. Humans observe the world through imperfect, partial sensory channels, yet we make coherent inferences.
 ### 3.3 Abstract Reasoning and Latent Variables
 Humans can infer unobserved concepts to better model the world. For example, from patterns in motion, Newton inferred gravity - a variable not directly sensed. Such abstractions improve prediction and understanding.
@@ -71,5 +71,5 @@ This article was reviewed and polished by an artificial - not so general -
 ---
 
 ## 5. References
-https://www.nature.com/articles/d41586-024-03990-2
-https://www.nei.org/news/2024/tech-companies-and-their-love-of-nuclear
+- https://www.nature.com/articles/d41586-024-03990-2
+- https://www.nei.org/news/2024/tech-companies-and-their-love-of-nuclear
