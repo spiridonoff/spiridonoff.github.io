@@ -10,6 +10,7 @@ permalink: /articles/game-of-intelligence
 # Game of Intelligence
 **Artin Spiridonoff**  
 *August 2025*
+
 ---
 
 ## 1. Introduction

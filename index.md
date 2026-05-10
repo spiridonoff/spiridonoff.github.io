@@ -5,9 +5,14 @@ title: Artin Spiridonoff
 
 Welcome to my personal site. Here you can find my professional history, research notes, and contact information.
 
+
+### Professional Summary
+Data Scientist with a Ph.D. in Systems Engineering and 5 years of industry experience specializing in distributed optimization, causal inference, and large-scale experimentation. Expert at bridging theoretical research with practical marketplace applications, from personalized ML frameworks to decentralized algorithms.
+
+
 ### Directory
-*   **[Professional Resume](/resume/)** – Experience, Education, and Skills.
-*   **[Articles & Reviews](/articles/)** – Summaries of papers and technical videos.
+*   **[CV](/resume/)** – Experience, Education, and Skills.
+*   **[Articles & Reviews](/articles/)** – Articles, reviews of papers and more.
 <!-- *   [**Contact & Socials**](#contact) – LinkedIn, GitHub, and Scholar. -->
 
 ---

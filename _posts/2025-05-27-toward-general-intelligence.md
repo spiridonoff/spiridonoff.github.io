@@ -10,7 +10,7 @@ permalink: /articles/toward-general-intelligence
 
 # Toward a Definition of General Intelligence
 **Artin Spiridonoff**  
-*May 2025*
+*May 2025* |
 View this article on [Medium](https://medium.com/@artin.spiridonoff/toward-a-definition-of-general-intelligence-2f8237a75141)
 
 ## Abstract

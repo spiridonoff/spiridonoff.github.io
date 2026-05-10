@@ -1,5 +1,5 @@
 title: Artin Spiridonoff
-description: Research Scientist
+description: Applied Scientist
 remote_theme: pages-themes/minimal@v0.2.0
 
 plugins:
@@ -14,10 +14,10 @@ markdown: kramdown
 kramdown:
   math_engine: mathjax
 
-header_pages:
-  - index.md
-  - resume.md
-  - articles.md
+# header_pages:
+#   - index.md
+#   - resume.md
+#   - articles.md
 
 # Your Links
 social_links:

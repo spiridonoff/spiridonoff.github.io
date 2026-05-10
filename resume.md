@@ -7,11 +7,6 @@ permalink: /resume/
 [← Back to Home](/)
 <!-- [Download PDF Version](/assets/resume.pdf) -->
 
-**Data Scientist**  | **PhD in Systems Engineering** 
-
-
-### Professional Summary
-Data Scientist with a PhD in Systems Engineering and 5 years of industry experience specializing in distributed optimization, causal inference, and large-scale experimentation. Expert at bridging theoretical research with practical marketplace applications, from personalized ML frameworks to decentralized algorithms.
 
 ---
 
