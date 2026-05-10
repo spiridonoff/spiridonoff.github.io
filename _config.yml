@@ -12,3 +12,7 @@ social_links:
   linkedin: artins
   github: spiridonoff
   scholar: YaCCwp8AAAAJ&hl=en
+
+header_pages:
+  - index.md
+  - articles.md
