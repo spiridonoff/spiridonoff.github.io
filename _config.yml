@@ -2,10 +2,13 @@ title: Artin Spiridonoff!
 description: Research Scientist
 # theme: jekyll-theme-cayman
 theme: minima
-remote_theme: jekyll/minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
 
 # Your Links
 social_links:
-  linkedin: https://www.linkedin.com/in/artins/
-  github: https://github.com/spiridonoff
-  scholar: https://scholar.google.com/citations?user=YaCCwp8AAAAJ&hl=en
+  linkedin: artins
+  github: spiridonoff
+  scholar: YaCCwp8AAAAJ&hl=en
