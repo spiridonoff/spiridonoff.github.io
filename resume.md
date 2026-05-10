@@ -1,21 +1,14 @@
 ---
-# layout: default
+layout: default
 title: Resume
 permalink: /resume/
 ---
 
 [← Back to Home](/)
 <!-- [Download PDF Version](/assets/resume.pdf) -->
-<!-- [Download CV (PDF)](/assets/resume.pdf) -->
 
-# Artin Spiridonoff
-**Data Scientist | PhD in Systems Engineering**  
-Seattle, WA | [artin.spiridonoff@gmail.com](mailto:artin.spiridonoff@gmail.com)  
-[LinkedIn](https://www.linkedin.com/in/{{ site.social_links.linkedin }}) | 
-[GitHub](https://github.com/{{ site.social_links.github }}) | 
-[Google Scholar](https://scholar.google.com/citations?user={{ site.social_links.scholar }})
+**Data Scientist | PhD in Systems Engineering** 
 
----
 
 ### Professional Summary
 Data Scientist with a PhD in Systems Engineering and 5 years of industry experience specializing in distributed optimization, causal inference, and large-scale experimentation. Expert at bridging theoretical research with practical marketplace applications, from personalized ML frameworks to decentralized algorithms.
@@ -26,7 +19,7 @@ Data Scientist with a PhD in Systems Engineering and 5 years of industry experie
 
 **Data Scientist – Ads Marketplace** | [Snap Inc.](https://www.snap.com/)  
 *Seattle, WA | Sep 2021 – Present*
-*   **Causal ML Frameworks:** Developed a personalized ad-load system using Predicted Individual Treatment Effects (PITE) to optimize multi-objective revenue and engagement uplifts.
+*   **Causal ML Frameworks:** Developed a personalized ad-load system to optimize multi-objective revenue and engagement uplifts.
 *   **Experimentation:** Designed and analyzed large-scale A/B experiments focused on marketplace efficiency, brand safety, and infrastructure cost reduction.
 *   **Tooling & Infrastructure:** Engineered automated data pipelines, alerting systems, and analytical dashboards to streamline complex marketplace querying.
 
