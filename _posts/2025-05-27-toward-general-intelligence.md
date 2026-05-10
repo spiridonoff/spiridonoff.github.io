@@ -45,13 +45,13 @@ Many such behaviors are not the result of conscious reasoning. Reflexes like fig
 We can define intelligence more generally as the ability to model the environment and make effective decisions. This entails prediction - estimating outcomes of actions - and decision-making - choosing actions that maximize a goal, such as survival.
 This predictive ability aligns with the Bayesian brain hypothesis, which posits that the brain continuously updates probabilistic models of the world, using sensory input to minimize prediction errors. From this perspective, intelligence can be seen as the optimization of belief updates under uncertainty.
 Consider a simplified formulation:
-Problem 1: Given prior experiences with complete observed pairs $$((x_i, y_i) \sim (X, Y))$$, predict $$(Y)$$ for a new instance $$(x \sim X)$$.
+Problem 1: Given prior experiences with complete observed pairs $((x_i, y_i) \sim (X, Y))$, predict $(Y)$ for a new instance $(x \sim X)$.
 This resembles standard supervised learning. However, it differs from real-world intelligence in key ways:
-The target $$(Y)$$ is not fixed; it depends on context.
+The target $(Y)$ is not fixed; it depends on context.
 Observations may be incomplete; not all variables are observed at once.
 
 A more general framing is:
-Problem 2: Given prior experiences with incomplete observations $$(\{x_i \sim X_i\})$$, predict $$(X_j)$$ for any $$(j)$$, conditioned on the other $$(\{x_i \mid i \neq j\})$$.
+Problem 2: Given prior experiences with incomplete observations $(\{x_i \sim X_i\})$, predict $(X_j)$ for any $(j)$, conditioned on the other $(\{x_i \mid i \neq j\})$.
 This formulation more closely mirrors biological cognition. Humans observe the world through imperfect, partial sensory channels, yet we make coherent inferences.
 ### 3.3 Abstract Reasoning and Latent Variables
 Humans can infer unobserved concepts to better model the world. For example, from patterns in motion, Newton inferred gravity - a variable not directly sensed. Such abstractions improve prediction and understanding.

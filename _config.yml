@@ -1,6 +1,5 @@
 title: Artin Spiridonoff
 description: Research Scientist
-# theme: jekyll-theme-cayman
 theme: minima
 
 plugins:
@@ -9,6 +8,10 @@ plugins:
 
 feed:
   path: false
+
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
 
 header_pages:
   - index.md
@@ -20,3 +23,4 @@ social_links:
   linkedin: artins
   github: spiridonoff
   scholar: YaCCwp8AAAAJ&hl=en
+
