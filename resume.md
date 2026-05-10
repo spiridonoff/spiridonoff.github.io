@@ -51,9 +51,9 @@ Data Scientist with a PhD in Systems Engineering and 5 years of industry experie
 ---
 
 ### Selected Publications
-*   **Communication-efficient SGD:** From Local SGD to One-Shot Averaging – *NeurIPS* (2021).
-*   **Robust Asynchronous Stochastic Gradient-Push** – *Journal of Machine Learning Research (JMLR)* (2020).
-*   **Fully Asynchronous Push-Sum with Growing Intercommunication Intervals** – *American Control Conference (ACC)* (2018).
+*   **Communication-efficient SGD:** From Local SGD to One-Shot Averaging – [*NeurIPS*](https://proceedings.neurips.cc/paper/2021/file/cc06a6150b92e17dd3076a0f0f9d2af4-Paper.pdf) (2021).
+*   **Robust Asynchronous Stochastic Gradient-Push** – *Journal of Machine Learning Research [(JMLR)](http://www.jmlr.org/papers/volume21/18-813/18-813.pdf)* (2020).
+*   **Fully Asynchronous Push-Sum with Growing Intercommunication Intervals** – *American Control Conference [(ACC)](https://ieeexplore.ieee.org/document/8431414)* (2018).
 
 ---
 
@@ -65,4 +65,4 @@ Data Scientist with a PhD in Systems Engineering and 5 years of industry experie
 ---
 
 ### Recent Projects
-*   **Mini Research Assistant:** A RAG-based tool built with OpenAI GPT, FAISS, and Streamlit for automated paper ranking and summarization (2025).
+*   **Mini Research Assistant:** A RAG-based tool built with OpenAI GPT, FAISS, and Streamlit for automated paper ranking and summarization ([github](https://github.com/spiridonoff/research_assistant), 2025).
