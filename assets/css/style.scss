@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Custom styles for Minimal theme */
+
+/* Option 1: Make header smaller and content wider */
+// .wrapper {
+//   max-width: 1200px; /* Increase overall width */
+// }
+
+// header {
+//   width: 25%; /* Reduce header width from default */
+//   float: left;
+//   padding-right: 2rem;
+// }
+
+// section {
+//   width: 70%; /* Increase content width */
+//   float: right;
+// }
+
+// /* Clear floats */
+// footer {
+//   clear: both;
+// }
+
+/* Option 2: Alternative - Header full-width at top, smaller height */
+.header-full-top header {
+  width: 100%;
+  float: none;
+  text-align: center;
+  padding: 1rem 0;
+  margin-bottom: 2rem;
+}
+
+.header-full-top section {
+  width: 100%;
+  float: none;
+}
+
+/* Uncomment the class on <body> or wrapper to use Option 2 */
+/* For example: <body class="header-full-top"> */

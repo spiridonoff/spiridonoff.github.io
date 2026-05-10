@@ -7,7 +7,7 @@ permalink: /resume/
 [← Back to Home](/)
 <!-- [Download PDF Version](/assets/resume.pdf) -->
 
-**Data Scientist | PhD in Systems Engineering** 
+**Data Scientist**  | **PhD in Systems Engineering** 
 
 
 ### Professional Summary

@@ -1,0 +1,12 @@
+# Dependencies
+Gemfile
+Gemfile.lock
+
+# Jekyll build output
+_site/
+.sass-cache/
+.jekyll-cache/
+
+# OS generated files
+.DS_Store
+Thumbs.db
