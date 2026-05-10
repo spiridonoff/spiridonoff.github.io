@@ -10,7 +10,6 @@ permalink: /articles/toward-general-intelligence
 
 # Toward a Definition of General Intelligence
 [View this article on Medium](https://medium.com/@artin.spiridonoff/toward-a-definition-of-general-intelligence-2f8237a75141)
----
 
 ## Abstract
 This article explores the concept of general intelligence and proposes a preliminary mathematical framework to define and model it. We contrast biological intelligence with current artificial intelligence systems and argue for a rethinking of how we define and pursue artificial general intelligence.
