@@ -1,3 +1,11 @@
-theme: jekyll-theme-cayman
-title: Welcome to Artin Spiridonoff's Homepage!
-description: Here, you can learn more about my projects.
+title: Artin Spiridonoff!
+description: Research Scientist
+# theme: jekyll-theme-cayman
+theme: minima
+remote_theme: jekyll/minima
+
+# Your Links
+social_links:
+  linkedin: https://www.linkedin.com/in/artins/
+  github: https://github.com/spiridonoff
+  scholar: https://scholar.google.com/citations?user=YaCCwp8AAAAJ&hl=en
