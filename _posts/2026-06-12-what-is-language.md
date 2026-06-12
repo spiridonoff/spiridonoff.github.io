@@ -1,4 +1,15 @@
-# What Is Language?
+---
+layout: default
+title: "What Is Language?"
+categories: [Mathematics, LLM]
+permalink: /articles/what-is-language
+---
+
+[← Back to Articles](/articles/)
+
+# What is Language?
+**Artin Spiridonoff**  
+*June 2026*
 
 *Disclaimer: I have no formal training in literature or communication. These are personal observations.*
 
