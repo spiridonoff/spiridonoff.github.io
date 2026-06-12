@@ -11,6 +11,8 @@ permalink: /articles/what-is-language
 **Artin Spiridonoff**  
 *June 2026*
 
+---
+
 *Disclaimer: I have no formal training in literature or communication. These are personal observations.*
 
 The main task of LLMs is to predict the next token. But is that equivalent to language—or understanding it?
